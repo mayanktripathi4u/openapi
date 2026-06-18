@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom Copilot Agent/Instructions/Skills - Local Development Only
+# These files are for personal VS Code customization and should NOT be committed
+*.instructions.md
+*.prompt.md
+*.agent.md
+SKILL.md
+copilot-instructions.md
+AGENTS.md
+.copilot/
+.agent/
+.skills/
+.github/agents/*
+.github/skills/*
