@@ -223,6 +223,7 @@ __marimo__/
 *.prompt.md
 *.agent.md
 SKILL.md
+SKILLS_README.md
 copilot-instructions.md
 AGENTS.md
 .copilot/
